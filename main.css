@@ -1,0 +1,30 @@
+body {
+  background-color:#e6f0fa;
+  font-family:Orbitron;
+}
+
+header{
+  background-color:#d1e3f6;
+}
+
+h1{
+  color:#eda6ca;
+}
+h2{
+  color:#eda6ca;
+}
+nav > ul {
+  line-height: 2em;
+  list-style-type: none;
+  padding-left: 5px;
+}
+
+section{
+  background-color: #d1daf6;
+  width:75%;
+  font-size: 1.2em;
+}
+
+footer{
+  background-color:#e6f0fa;
+}
