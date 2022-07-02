@@ -4,7 +4,7 @@ body {
 }
 
 header{
-  background-color:red;
+  background-color:#f4c2c2;
 }
 
 h1{
@@ -18,11 +18,11 @@ nav > ul {
 }
 
 section{
-  background-color: darkorange;
+  background-color: #ffc0d0;
   width:75%;
   font-size: 1.2em;
 }
 
 footer{
-  background-color: red;
+  background-color: #f4c2c2;
 }
